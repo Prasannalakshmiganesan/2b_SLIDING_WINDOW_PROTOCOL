@@ -45,9 +45,11 @@ while True:
 ```
 ## OUPUT:
 ### CLIENT:
-![alt text](image.png)
+![image](https://github.com/Prasannalakshmiganesan/2b_SLIDING_WINDOW_PROTOCOL/assets/118610231/37a584d7-e3bc-4d6a-a9e4-512c9590c245)
+
 ### SERVER:
-![alt text](image-1.png)
+![image](https://github.com/Prasannalakshmiganesan/2b_SLIDING_WINDOW_PROTOCOL/assets/118610231/01577559-7b19-440d-b3f3-f5f4bf8026d9)
+
 
 
 ## RESULT
